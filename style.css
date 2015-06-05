@@ -1,0 +1,50 @@
+.container {
+    position: relative;
+    width: 250px;
+    margin: 0 auto;
+
+}
+.num {
+  display: inline-block;
+  height: 50px;
+  width: 50px;
+  text-align: center;
+  padding: 10px 10px 10px 10px;
+  margin: 1px;
+  background: gray;
+  font-size: 40pt;
+  border-radius: 10%
+}
+.sym {
+  display: inline-block;
+  height: 50px;
+  width: 50px;
+  text-align: center;
+  padding: 10px 10px 10px 10px;
+  margin: 1px;
+  background: #657;
+  font-size: 40pt;
+  border-radius: 10%
+}
+.clear, .equal {
+  display: inline-block;
+  height: 50px;
+  width: 50px;
+  text-align: center;
+  padding: 10px 10px 10px 10px;
+  margin: 1px;
+  background: #693;
+  font-size: 40pt;
+  border-radius: 10%
+}
+.console {
+  display: block;
+  height: 50px;
+  width: 200px;
+  padding: 10px 10px 10px 10px;
+  margin: 1px;
+  border: 1px solid black;
+  font-size: 40pt;
+  border-radius: 10%;
+  text-align: right;
+}
